@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopFramework", "ShopFramework\ShopFramework.csproj", "{FED76F63-E904-4E62-AF92-45B199233A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED76F63-E904-4E62-AF92-45B199233A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED76F63-E904-4E62-AF92-45B199233A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED76F63-E904-4E62-AF92-45B199233A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED76F63-E904-4E62-AF92-45B199233A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC50161-0D1B-4627-A59D-2722637BB89C}
+	EndGlobalSection
+EndGlobal

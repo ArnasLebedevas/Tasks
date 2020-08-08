@@ -1,0 +1,10 @@
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.csprojAssemblyReference.cache
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.Form1.resources
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.Properties.Resources.resources
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.csproj.GenerateResource.cache
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.csproj.CoreCompileInputs.cache
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\bin\Debug\ShopFramework.exe.config
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\bin\Debug\ShopFramework.exe
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\bin\Debug\ShopFramework.pdb
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.exe
+C:\Users\arnas\Desktop\C# .net\ShopFramework\ShopFramework\obj\Debug\ShopFramework.pdb
