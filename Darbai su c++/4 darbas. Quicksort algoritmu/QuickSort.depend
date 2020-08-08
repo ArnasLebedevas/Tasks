@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586271014 source:c:\users\arnas\desktop\2 semestras\quicksort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<fcntl.h>
+	<io.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<string>
+	<ctime>
+
