@@ -1,0 +1,10 @@
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\arnas\Desktop\C# .net\Calculator\Calculator\obj\Debug\Calculator.pdb
